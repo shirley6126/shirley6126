@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<title id="title">Shirley Amaguaña — Ecuador pixel art</title><desc id="desc">Paisaje pixel art al atardecer con Cotopaxi, un cóndor y los colores de la bandera ecuatoriana.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#17142d"/><stop offset=".65" stop-color="#33204f"/><stop offset="1" stop-color="#68416c"/></linearGradient></defs>
+<rect width="1200" height="460" fill="#100e20"/><rect x="14" y="14" width="1172" height="432" fill="url(#sky)" stroke="#a77be8" stroke-width="5"/>
+<!-- pixel stars -->
+<g fill="#ffe08a"><path d="M92 83h12v12h12v12h-12v12H92v-12H80V95h12z"/><path d="M1080 70h10v10h10v10h-10v10h-10V90h-10V80h10z"/><rect x="924" y="121" width="8" height="8"/><rect x="160" y="155" width="7" height="7"/><rect x="740" y="78" width="8" height="8"/></g>
+<!-- pixel sun -->
+<g fill="#f2a6c8"><rect x="880" y="150" width="64" height="16"/><rect x="864" y="166" width="96" height="48"/><rect x="880" y="214" width="64" height="16"/></g>
+<!-- distant Andes -->
+<path fill="#49305f" d="M20 310h110l70-72 46 42 82-112 79 92 72-52 104 104 86-79 92 82 67-66 93 79 74-61 104 65v75H20z"/>
+<!-- Cotopaxi base and snow cap -->
+<path fill="#704b86" d="M256 376l130-238 132 238z"/><path fill="#f4e8ff" d="M386 138l-42 77 28-9 14 22 15-23 31 9z"/><path fill="#c9a6ee" d="M386 138l-130 238h36l94-154 96 154h36z"/>
+<!-- foothills -->
+<path fill="#322848" d="M20 350h170l90-44 94 37 112-26 120 42 110-53 120 47 95-33 149 47v58H20z"/>
+<!-- pixel Ecuador flag ribbon -->
+<g><rect x="20" y="356" width="1160" height="22" fill="#ffd447"/><rect x="20" y="378" width="1160" height="16" fill="#2868c7"/><rect x="20" y="394" width="1160" height="16" fill="#e65b70"/></g>
+<!-- pixel condor silhouette -->
+<g fill="#11101c"><rect x="656" y="112" width="28" height="14"/><rect x="632" y="126" width="76" height="14"/><rect x="606" y="140" width="126" height="14"/><rect x="588" y="154" width="158" height="14"/><rect x="612" y="168" width="112" height="14"/><rect x="646" y="182" width="56" height="28"/><rect x="662" y="210" width="24" height="20"/><rect x="684" y="214" width="18" height="8" fill="#ffd447"/></g>
+<!-- pixel cloud accents -->
+<g fill="#b88be8"><rect x="74" y="268" width="56" height="12"/><rect x="92" y="256" width="24" height="12"/><rect x="1014" y="268" width="74" height="12"/><rect x="1030" y="256" width="38" height="12"/></g>
+<g font-family="monospace" fill="#f8efff"><text x="72" y="74" font-size="18" fill="#ffe08a">SHIRLEY / ESPACIO PERSONAL</text><text x="72" y="164" font-size="50" font-weight="700">SHIRLEY AMAGUAÑA</text><text x="72" y="205" font-size="22" fill="#efb4db">INGENIERÍA DE SOFTWARE · UTA · ECUADOR</text><text x="72" y="265" font-size="18" fill="#d7c1f3">CÓDIGO, IDEAS Y PROYECTOS CON IDENTIDAD ECUATORIANA</text><text x="760" y="436" font-size="13" fill="#fff0b6">PIXEL ART · COTOPAXI · CÓNDOR · ECUADOR</text></g>
+</svg>
