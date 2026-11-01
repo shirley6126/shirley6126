@@ -15,7 +15,7 @@
 
 ¡Hola! Soy **Shirley Amaguaña**, estudiante de **Ingeniería de Software** en la **Universidad Técnica de Ambato (UTA – FISEI)**. Me interesa desarrollar aplicaciones web, trabajar con bases de datos y aplicar buenas prácticas de ingeniería de software.
 
-Aquí comparto proyectos académicos y colaborativos en los que he trabajado con diseño, implementación, estructuras de datos, modelado y control de versiones. La identidad visual de este perfil combina una ciudad futurista pixelada con colores neón y un guiño a Ecuador.
+Aquí comparto proyectos académicos y colaborativos en los que he trabajado con diseño, implementación, estructuras de datos, modelado y control de versiones.
 
 ## Tecnologías
 
@@ -62,11 +62,6 @@ Git · GitFlow · GitHub · Eclipse (Ecore, Xtext, Xtend, OCL) · PlantUML · St
 
 ## Contacto
 
-📧 [shirley.daya1406@gmail.com](mailto:shirley.daya1406@gmail.com) · 💻 [github.com/shirley6126](https://github.com/shirley6126)
+📧 [shirley.daya1406@gmail.com](mailto:shirley.daya1406@gmail.com) · 📸 [Instagram: shirley_daya](https://www.instagram.com/shirley_daya/) · 💻 [GitHub](https://github.com/shirley6126)
 
-<div align="center">
 
-**Ideas que toman forma, un proyecto a la vez.**  
-🇪🇨 · Hecho con código y pixel art
-
-</div>
