@@ -62,6 +62,6 @@ Git · GitFlow · GitHub · Eclipse (Ecore, Xtext, Xtend, OCL) · PlantUML · St
 
 ## Contacto
 
-📧 [shirley.daya1406@gmail.com](mailto:shirley.daya1406@gmail.com) · 📸 [Instagram: shirley_daya](https://www.instagram.com/shirley_daya/) · 💻 [GitHub](https://github.com/shirley6126)
+📧 [shirley.daya1406@gmail.com](mailto:shirley.daya1406@gmail.com) · 📸 [Instagram: shirle_daya](https://www.instagram.com/shirle_daya/) · 💻 [GitHub](https://github.com/shirley6126)
 
 
